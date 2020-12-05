@@ -1,0 +1,6 @@
+[submodule "src/server"]
+	path = src/server
+	url = git@github.com:stethewwolf/GardenServer.git
+[submodule "src/controller"]
+	path = src/controller
+	url = https://github.com/stethewwolf/GardenController
